@@ -1,0 +1,3 @@
+g++ version_check.cpp -std=c++14 -o test `pkg-config --cflags --libs opencv`
+
+
